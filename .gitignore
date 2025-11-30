@@ -3,3 +3,7 @@ output/
 .vscode/
 .idea/
 __pycache__/
+
+# Godot
+.godot/
+*.import
